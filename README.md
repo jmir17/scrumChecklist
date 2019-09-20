@@ -77,7 +77,53 @@ Helps the organization with:
 - [ ] Plans scrum implementations within the organization.
 - [ ] Works with other scrum masters to increase scrum effectiveness.
 
+#### Scrum Events
+- [ ] All events are time-boxed.
+- [ ] The time must be fixed at the beginning of a sprint, cannot be shortened or lengthened.
+- [ ] Events are transpared, to be inspected, to be adapted.
+##### The sprint
+- [ ] The lenght is from 2 to 4 weeks.
+- [ ] Have consistent durations.
+- [ ] New sprints start immediately after the previous concludes.
+The sprint contains:
+- [ ] Sprint planning
+- [ ] Daily scrum meetings
+- [ ] Development work
+- [ ] Sprint review
+- [ ] Srpint retrospective
 
+
+- [ ] A sprint goal is always set.
+- [ ] No changes can endanger the sprint goal.
+- [ ] Quality goals do not decrease over time.
+- [ ] Scope may be clarified or re-negotiated.
+- [ ] Only product owner has the authority to canel a sprint, and only when the sprint goal is obsolete.
+##### The sprint planning
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
