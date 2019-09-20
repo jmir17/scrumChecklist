@@ -54,6 +54,7 @@ Scrum team members are aligned with these values:
 - [ ] Helps everybody to understand the scrum theory, practives, rules and values.
 - [ ] Is a servant-leader for the scrum team.
 - [ ] Helps to change the interactions with and within the scrum team to maximize the value created.
+
 Hels product owner with:
 - [ ] Ensures goals, scope and domain are understood by everyone.
 - [ ] Finds techniques to maintain product backlog effectively.
@@ -62,6 +63,7 @@ Hels product owner with:
 - [ ] Helps product owner to arrange the product backlog to maximize value
 - [ ] Understands and practives agility.
 - [ ] Facilitates scrum events as requested or needed.
+
 Helps development team with:
 - [ ] Coaches the team in self-organization.
 - [ ] Coaches the team in cross-functionality.
@@ -69,6 +71,7 @@ Helps development team with:
 - [ ] Remove progress bloquers.
 - [ ] Facilitates scrum events as requested or needed.
 - [ ] Coaches development team in other organization environtments where scrum is not fully adopted or understood. 
+
 Helps the organization with:
 - [ ] Leads and coaches the organization in scrum adoption.
 - [ ] Plans scrum implementations within the organization.
