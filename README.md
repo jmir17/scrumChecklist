@@ -51,6 +51,7 @@ Scrum team members are aligned with these values:
 
 ##### Scrum Master
 - [ ] Promotes and supports the scrum process.
+- [ ] Enhaces the transparency of the scrum artifacts. 
 - [ ] Helps everybody to understand the scrum theory, practives, rules and values.
 - [ ] Is a servant-leader for the scrum team.
 - [ ] Helps to change the interactions with and within the scrum team to maximize the value created.
@@ -131,11 +132,23 @@ The sprint contains:
 - [ ] The quality standards and definition of "Done" is adapted in this meeting if needed.
 - [ ] The output should be a plan of improvement.
 
+#### Scrum artifacts
+- [ ] Maximize transparency of key information. 
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+##### Product Backlog
+- [ ] The product owner is responsible of its content, availability and ordering.
+- [ ] The product backlog is never complete. It evolves as the product evolves.
+- [ ] The product backlog items have description, order, estimation and value.
+- [ ] Product backlog refinement (add detail, estimations and ordering) takes place iteratively.
+- [ ] The items on top mus be clear and meet the definition of ready.
+
+##### Sprint Backlog
+- [ ] Makes visible all the work to meet the sprint goal.
+- [ ] Must have al least one improvement identified in previous sprint retrospective. 
+- [ ] Only the development team manages the sprint backlog.
+- [ ] It must represent a live picture of the work done and remaining.
+- [ ] All items must meet the definition of done before are considered finished.
+
 
 None of the items listed here are based on my experience or intuition, I wanted to create this list because I was not applying scrum as it should and I was using "my" common sense. If that is your case too, I recommend you this article: [We Tried Baseball and It Didn't Work](https://ronjeffries.com/xprog/articles/jatbaseball/)
 
