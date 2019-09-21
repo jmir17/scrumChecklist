@@ -98,31 +98,40 @@ The sprint contains:
 - [ ] Quality goals do not decrease over time.
 - [ ] Scope may be clarified or re-negotiated.
 - [ ] Only product owner has the authority to canel a sprint, and only when the sprint goal is obsolete.
-##### The sprint planning
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+
+##### Sprint planning
+- [ ] Created by the whole scrum team
+- [ ] The maximum duration is 8h for a 1 month sprint or equivalent.
+- [ ] The product owner must set a sprint goal.
+- [ ] The number of Product Backlog items selected for the sprint backlog, solely depends on the development team.
+- [ ] The work planned for the first day(s) is decomposed at the end of the meeting.
+
+##### Scrum daily
+- [ ] The scrum master teaches to keep the duration of 15min.
+- [ ] It is held every day.
+- [ ] It is planned the work for the next 24h.
+- [ ] Answer the 3 questions, not regarding the work but the sprint goal.
+- [ ] Detailed discussions, adaptations, replanings are outside this meeting.
+- [ ] The scrum master ensures that the meeting takes place.
+- [ ] The development team conducts the meeting.
+
+##### Sprint review
+- [ ] It lasts 4h maximum for a 1 month sprint or equivalent.
+- [ ] The product owner reviews what has been "Done" and what has not been "Done".
+- [ ] What went well, what problems appeared and how were solved is discussed.
+- [ ] The scrum team reviews what to do next regarding, planning, product, timeline, budget,...
+- [ ] The product backlog is revised.
+
+##### Sprint retrospective
+- [ ] It takes place after the sprint review and before the sprint planning.
+- [ ] It lasts 3h max for a 1 month sprint or equivalent.
+- [ ] The meeting is positive and productive.
+- [ ] Inspect people, relationshps, process and tools.
+- [ ] Create a plan to improve how the scrum team works.
+- [ ] The quality standards and definition of "Done" is adapted in this meeting if needed.
+- [ ] The output should be a plan of improvement.
+
+
 - [ ] 
 - [ ] 
 - [ ] 
