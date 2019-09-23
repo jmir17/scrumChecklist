@@ -1,6 +1,6 @@
 # The Scrum Checklist
 
-scrum: Is an agile framework for managing complex adaptative problems using incremental interations.
+*Scrum: Is an agile framework for managing complex adaptive problems using incremental iterations.*
 
 ![Scrum incremental iterations](https://thepracticaldev.s3.amazonaws.com/i/ssr57rvag7ona3z9d68h.png)
 
