@@ -144,4 +144,4 @@ Scrum team members are aligned with these values:
 - [ ] All items must meet the definition of done before are considered finished.
 
 
-None of the items listed here are based on my experience or intuition, I wanted to create this list because I was not applying scrum as it should and I was using "my" common sense. If that is your case too, I recommend you this article: [We Tried Baseball and It Didn't Work](https://ronjeffries.com/xprog/articles/jatbaseball/)
+None of the items listed here are based on my experience or intuition, I wanted to create this list because for a long time I was not applying scrum as it should and I was using "my" common sense. If that was your case too, I recommend you this article: [We Tried Baseball and It Didn't Work](https://ronjeffries.com/xprog/articles/jatbaseball/)
