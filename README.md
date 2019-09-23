@@ -59,7 +59,7 @@ Scrum team members are aligned with these values:
     - [ ] Is a servant-leader for the scrum team.
     - [ ] Helps to change the interactions with and within the scrum team to maximize the value created.
 
-        Hels product owner to:
+        Helps product owner to:
         - [ ] Ensure that goals, scope and domain are understood by everyone.
         - [ ] Find techniques to maintain product backlog effectively.
         - [ ] Create clear and concise product backlog items.
@@ -87,7 +87,7 @@ Scrum team members are aligned with these values:
 - [ ] Events are transparent, to be inspected, to be adapted.
 
     ##### The Sprint
-    - [ ] The lenght is from 2 to 4 weeks.
+    - [ ] The length is from 2 to 4 weeks.
     - [ ] Has consistent durations.
     - [ ] New sprints start immediately after the previous concludes.
     - [ ] A sprint goal is always set.
@@ -106,7 +106,7 @@ Scrum team members are aligned with these values:
     - [ ] It is held every day.
     - [ ] It is planned the work for the next 24h.
     - [ ] Answer the 3 questions, not regarding the items or work but the sprint goal.
-    - [ ] Detailed discussions, adaptations, replanings are outside this meeting.
+    - [ ] Detailed discussions, adaptations, replannings are outside this meeting.
     - [ ] The scrum master ensures that the meeting takes place.
     - [ ] The development team conducts the meeting.
 
