@@ -4,7 +4,7 @@
 
 ![Scrum incremental iterations](https://thepracticaldev.s3.amazonaws.com/i/ssr57rvag7ona3z9d68h.png)
 
-This checklist is based on the Scrum guide, it checks that the roles, events, artifacts and rules are correct and working as they should. As long as we humans tend to forget how things work and even worse, use our intuition to figure out problems, I decided to write down in a list key points of scrum framework. The list is hosted in a public [github repository](https://github.com/jmir17/scrumChecklist) because receiving contributions are very welcome.
+This checklist is based on the Scrum guide, it checks that the roles, events, artifacts and rules are correct and working as they should. As long as we humans tend to forget how things work and refuse to follow difficult rules, I decided to write down in a list key points of scrum framework. The list is hosted in a public [github repository](https://github.com/jmir17/scrumChecklist) because receiving contributions are very welcome.
 
 
 ## The list:
@@ -144,4 +144,4 @@ Scrum team members are aligned with these values:
 - [ ] All items must meet the definition of done before are considered finished.
 
 
-None of the items listed here are based on my experience or intuition, I wanted to create this list because for a long time I was not applying scrum as it should and I was using "my" common sense. If that was your case too, I recommend you this article: [We Tried Baseball and It Didn't Work](https://ronjeffries.com/xprog/articles/jatbaseball/)
+None of the items listed here are based on my experience or intuition, I wanted to create this list because for a long time I was not applying scrum as it should and I was using "common sense" most of the times. If that was your case too, I recommend you this article: [We Tried Baseball and It Didn't Work](https://ronjeffries.com/xprog/articles/jatbaseball/)
